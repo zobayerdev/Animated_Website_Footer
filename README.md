@@ -18,10 +18,10 @@ BUBT - [Md. Zobayer Hasan Nayem](https://github.com/zobayerdev/)
 
 # Contact
 [![forthebadge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=zobayer.dev@gmail.com)
+[![forthebadge](https://img.shields.io/badge/Facebook-D14836?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zobayerdev/)
+[![forthebadge](https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zobayerdev/)
+[![forthebadge](https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zobayerdev/)
 
-[![forthebadge](https://img.shields.io/badge/Facebook-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=zobayer.dev@gmail.com)
-
-[![forthebadge](https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=zobayer.dev@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/74914169/197405345-a1b10cb3-a717-46d7-9c66-4384e6b3f6fe.png" width=35% height=35%>
 <img src="https://user-images.githubusercontent.com/74914169/197405348-1f232737-0e23-48bb-82bc-6d788d982325.png" width=35% height=35%>
